@@ -1,4 +1,4 @@
-name: Generate Jars
+name: Generate Jar
 on: [ push, pull_request ]
 jobs:
   paperclip:
